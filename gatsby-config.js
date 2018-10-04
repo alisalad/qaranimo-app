@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Udub Web Solutions',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
