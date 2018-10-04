@@ -5,10 +5,16 @@ import Layout from '../components/layout'
 
 const IndexPage = () => (
   <Layout>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+    <div className="Hero">
+      <div className="HeroGroup">
+        <h1>Welcome to Udub Web Solutions</h1>
+        <p>
+          Learn how to build a modern site using React and the most efficient
+          libraries to get your site/product online
+        </p>
+        <Link to="/page-2/">Watch the video</Link>
+      </div>
+    </div>
   </Layout>
 )
 
