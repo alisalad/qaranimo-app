@@ -5,7 +5,7 @@ const Header = ({ siteTitle }) => (
   <div className="Header">
     <div className="HeaderGroup">
       <Link to="/">
-        <img src={require('../images/udub.svg')} width="30" />
+        <img src={require('../images/udub_logo.svg')} width="125" />
       </Link>
       <Link to="/home">Home</Link>
       <Link to="/about">About Us</Link>
