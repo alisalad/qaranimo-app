@@ -6,7 +6,7 @@
 }
 
 .HeaderGroup {
-  max-width: 800px;
+  max-width: 920;
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(5, auto);
